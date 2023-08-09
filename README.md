@@ -39,8 +39,13 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 * Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further 
   analysis.
 * Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
-* Create an executive summary and slides of the customer segmentation results and record a video presentation.
+* Create an executive summary and slides of the customer segmentation results.
   
+# Project Objectives
+1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page.
+2. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single table.
+3. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
+4. Transform the data to remove scale bias.
 
   ![Social Analytics](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/a98912d7-b0c2-431c-a580-b1f30891958a)
 
