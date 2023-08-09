@@ -1,5 +1,5 @@
 # DA-205-TravelTide-Customer_Segmentation ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/51b78da1-4ee7-456f-b4c8-d7d3d9aaed4c)
-  ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/03b7fcd5-be4a-452d-8b52-0471cdeb5721)
+  
 In this project, we will segment customer data according to business needs and deliver data-driven recommendations based on our findings.
 
 # Project Motivation
@@ -19,6 +19,7 @@ From a business perspective, customer segmentation divides a customer database i
 The role of a data analyst in driving business value is to define segments that are meaningful and aligned with business objectives. Segmentation projects can be somewhat more open-ended and require analysts to think about the problem space from multiple points of view. Thinking deeply about business needs, customer behavior, and creative ways to apply various analytical tools makes segmentation a rewarding challenge.
 
 # TravelTide 
+  ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/03b7fcd5-be4a-452d-8b52-0471cdeb5721)
 E-booking startup TravelTide is a hot new player in the online travel industry. It has experienced steady growth since it was founded at the tail end of the COVID pandemic (2021–April) on the strength of its data aggregation and search technology, which is best in class. Customer feedback has shown, and industry analysts agree, that TravelTide customers have access to the largest travel inventory in the e-booking space.
 
 Following the startup playbook, TravelTide has maintained a hyper-focus on building an unfair advantage along a limited number of dimensions—in this case, building the biggest travel inventory and making it easily searchable. Because of this narrow focus, certain aspects of the TravelTide customer experience are underdeveloped, resulting in poor customer retention. CEO Kevin Talanick is very motivated to retain and add value to existing customers with a Marketing strategy built on a solid understanding of customer behavior.
