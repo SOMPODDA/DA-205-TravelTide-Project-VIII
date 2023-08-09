@@ -29,14 +29,16 @@ To supercharge the Marketing efforts at TravelTide as an expert in customer rete
 You are on the Analytics team and responsible for supporting Elena’s rewards program project. Her subject matter expertise, together with your data skills, should result in a product reflecting marketing know-how and backed by solid evidence. Elena sent a follow-up message, reproduced here:
               ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/81118c0e-e6cd-4e0a-80b5-dd407f51f7bb)
 
-Elena believes that to grab customers attention and maximize the likelihood they will sign up for the rewards program, we want to emphasize the perk we think they are most interested in when we ask them to sign up. To give us a clear picture of the difference our analysis will make, Elena has also shared some mock-ups of rewards program invitation emails.
+Elena believes that to grab customers' attention and maximize the likelihood they will sign up for the rewards program, we want to emphasize the perk we think they are most interested in when we ask them to sign up. To give us a clear picture of the difference our analysis will make, Elena has also shared some mock-ups of rewards program invitation emails.
               ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/02aa642f-5ef6-499e-ad89-dd931d15d6d1)
 The email on the right is vague and requires customers to read through a bulleted list of equally important rewards. The one on the left has specific messaging about a free cancellation perk. Elena’s marketing logic is that if we believe a subset of customers will be particularly interested in free cancellation, TravelTide has a much higher chance of getting them to sign up for rewards using the email on the left.
 
 Our mission as Data Analysts is two-fold. First, check if the data supports Elena’s hypothesis about the existence of customers that would be especially interested in the perks she is proposing, and then, for each customer, assign a likely favorite perk.
 
 # Project Overview
-Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further analysis.
-Make calculations related to the business context then segment customer behavior data with statistical and visual techniques using the appropriate tools.
-Create an executive summary and slides of the customer segmentation results and record a video presentation.
+* Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further 
+  analysis.
+* Make calculations related to the business context then segment customer behavior data with statistical and visual techniques using the appropriate tools.
+* Create an executive summary and slides of the customer segmentation results and record a video presentation.
+  
               ![Screenshot_20230805_064842](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/b2dfa723-5092-4a1d-8521-6c96ed00a444)
