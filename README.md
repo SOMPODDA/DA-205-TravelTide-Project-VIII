@@ -43,9 +43,18 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 
 # Project Objectives
 1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page.
-2. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single table.
+2. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single 
+   table.
 3. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
 4. Transform the data to remove scale bias.
+
+# Learning Outcomes
+* Practice defining metrics to track relevant customer behavior
+* Segment data by setting thresholds on behavioral metrics
+* Find outliers using visual and statistical techniques
+* Implement multi-variable data segmentation using two, three, or more behavioral metrics
+* Design effective data visualizations to communicate insights to a non-technical audience
+* Practice delivering evidence-based business recommendations to stakeholders
 
 This Project will enable you to develop business intuition around the marketing project your analysis is supporting, as well as check your understanding of the database and the various data processing strategies required to build a robust customer segmentation dataset.
 
