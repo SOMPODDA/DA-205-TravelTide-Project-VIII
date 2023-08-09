@@ -37,12 +37,13 @@ The email on the right is vague and requires customers to read through a bullete
 Our mission as Data Analysts is two-fold. First, check if the data supports Elena’s hypothesis about the existence of customers that would be especially interested in the perks she is proposing, and then, for each customer, assign a likely favorite perk.
 
 # Project Objectives
-1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page. (Familiarize yourself with the business context. Use 
-SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further analysis.)
-2. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single 
-   table. (Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.)
-3. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
-4. Transform the data to remove scale bias.
+1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page.
+2. Familiarize yourself with the business context. Use SQL to extract a customer dataset. 
+3. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single table.
+4. Explore the data at different levels of aggregation and form a plan for further analysis.
+5. Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
+6. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
+7. Transform the data to remove scale bias.
 
 # Learning Outcomes
 * Practice defining metrics to track relevant customer behavior
