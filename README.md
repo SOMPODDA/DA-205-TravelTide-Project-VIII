@@ -12,9 +12,9 @@ Sports: Sports analysts can use segmentation to group players based on ability. 
 
 From a business perspective, customer segmentation divides a customer database into groups to provide a tailored customer experience, rather than one size fits all. The business value of creating such groups is the ability to implement specific business strategies, including:
 
-customized promotions (e.g. special offers, discounts) 
-personalized communications (e.g. targeted marketing emails)
-specific account policies (e.g. credit line)
+1. Customized promotions (e.g. special offers, discounts)
+2. Personalized communications (e.g. targeted marketing emails)
+3. Specific account policies (e.g. credit line)
 
 The role of a data analyst in driving business value is to define segments that are meaningful and aligned with business objectives. Segmentation projects can be somewhat more open-ended and require analysts to think about the problem space from multiple points of view. Thinking deeply about business needs, customer behavior, and creative ways to apply various analytical tools makes segmentation a rewarding challenge.
 
@@ -41,5 +41,6 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 * Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
 * Create an executive summary and slides of the customer segmentation results and record a video presentation.
   
-                ![Social Analytics](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/a98912d7-b0c2-431c-a580-b1f30891958a)
+
+  ![Social Analytics](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/a98912d7-b0c2-431c-a580-b1f30891958a)
 
