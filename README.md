@@ -16,10 +16,10 @@ customized promotions (e.g. special offers, discounts)
 personalized communications (e.g. targeted marketing emails)
 specific account policies (e.g. credit line)
 
-The role of a data analyst in driving business value is to define segmentations that are meaningful and aligned with business objectives. Segmentation projects can be somewhat more open-ended and require analysts to think about the problem space from multiple points of view. Thinking deeply about business needs, customer behavior, and creative ways to apply various analytical tools makes segmentation a rewarding challenge.
+The role of a data analyst in driving business value is to define segments that are meaningful and aligned with business objectives. Segmentation projects can be somewhat more open-ended and require analysts to think about the problem space from multiple points of view. Thinking deeply about business needs, customer behavior, and creative ways to apply various analytical tools makes segmentation a rewarding challenge.
 
 # TravelTide 
-e-booking startup TravelTide is a hot new player in the online travel industry. It has experienced steady growth since it was founded at the tail end of the COVID pandemic (2021–2004) on the strength of its data aggregation and search technology, which is best in class. Customer feedback has shown, and industry analysts agree, that TravelTide customers have access to the largest travel inventory in the e-booking space.
+E-booking startup TravelTide is a hot new player in the online travel industry. It has experienced steady growth since it was founded at the tail end of the COVID pandemic (2021–April) on the strength of its data aggregation and search technology, which is best in class. Customer feedback has shown, and industry analysts agree, that TravelTide customers have access to the largest travel inventory in the e-booking space.
 
 Following the startup playbook, TravelTide has maintained a hyper-focus on building an unfair advantage along a limited number of dimensions—in this case, building the biggest travel inventory and making it easily searchable. Because of this narrow focus, certain aspects of the TravelTide customer experience are underdeveloped, resulting in poor customer retention. CEO Kevin Talanick is very motivated to retain and add value to existing customers with a Marketing strategy built on a solid understanding of customer behavior.
 To supercharge the Marketing efforts at TravelTide as an expert in customer retention strategies, specifically rewards programs, an advanced feature proven to generate repeat business if executed well. Head of Marketing Elena’s mission is to design and execute a fantastic personalized rewards program that keeps customers returning to the TravelTide platform. It is difficult to personalize rewards for customers without first understanding them, so for the project to be successful, Elena will need to lean on the data team for customer insights.
@@ -29,9 +29,14 @@ To supercharge the Marketing efforts at TravelTide as an expert in customer rete
 You are on the Analytics team and responsible for supporting Elena’s rewards program project. Her subject matter expertise, together with your data skills, should result in a product reflecting marketing know-how and backed by solid evidence. Elena sent a follow-up message, reproduced here:
               ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/81118c0e-e6cd-4e0a-80b5-dd407f51f7bb)
 
-Elena believes that to grab customers attention and maximize the likelihood they will sign up for the rewards program, we want to emphasize the perk we think they are most interested in when we ask them to sign up. To give us a clear picture of the difference our analysis will make, Elena has also shared some mock-ups of rewards program invitation emails. 
+Elena believes that to grab customers attention and maximize the likelihood they will sign up for the rewards program, we want to emphasize the perk we think they are most interested in when we ask them to sign up. To give us a clear picture of the difference our analysis will make, Elena has also shared some mock-ups of rewards program invitation emails.
               ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/02aa642f-5ef6-499e-ad89-dd931d15d6d1)
 The email on the right is vague and requires customers to read through a bulleted list of equally important rewards. The one on the left has specific messaging about a free cancellation perk. Elena’s marketing logic is that if we believe a subset of customers will be particularly interested in free cancellation, TravelTide has a much higher chance of getting them to sign up for rewards using the email on the left.
 
-Our mission as Data Analysts is two-fold. First, check if the data supports Elena’s hypothesis about the existence of customers that would be especially interested in the perks she is proposing, and then, for each customer, assign a likely favorite perk. 
+Our mission as Data Analysts is two-fold. First, check if the data supports Elena’s hypothesis about the existence of customers that would be especially interested in the perks she is proposing, and then, for each customer, assign a likely favorite perk.
+
+# Project Overview
+Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further analysis.
+Make calculations related to the business context then segment customer behavior data with statistical and visual techniques using the appropriate tools.
+Create an executive summary and slides of the customer segmentation results and record a video presentation.
               ![Screenshot_20230805_064842](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/b2dfa723-5092-4a1d-8521-6c96ed00a444)
