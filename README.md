@@ -41,4 +41,5 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 * Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
 * Create an executive summary and slides of the customer segmentation results and record a video presentation.
   
-  ![Screenshot_20230805_064842](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/b2dfa723-5092-4a1d-8521-6c96ed00a444)
+                ![Social Analytics](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/a98912d7-b0c2-431c-a580-b1f30891958a)
+
