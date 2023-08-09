@@ -47,5 +47,7 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 3. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
 4. Transform the data to remove scale bias.
 
+This Project will enable you to develop business intuition around the marketing project your analysis is supporting, as well as check your understanding of the database and the various data processing strategies required to build a robust customer segmentation dataset.
+
   ![Social Analytics](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/a98912d7-b0c2-431c-a580-b1f30891958a)
 
