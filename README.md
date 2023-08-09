@@ -1,7 +1,12 @@
 # DA-205-TravelTide-Customer_Segmentation ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/51b78da1-4ee7-456f-b4c8-d7d3d9aaed4c)
   ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/03b7fcd5-be4a-452d-8b52-0471cdeb5721)
-
+# Project Overview
+* Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further 
+  analysis.
+* Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
+* Create an executive summary and slides of the customer segmentation results.
 In this project, we will segment customer data according to business needs and deliver data-driven recommendations based on our findings.
+
 # Project Motivation
 What is segmentation? It refers to a broad category of analytic techniques that allow us to group similar data points. In this project, data points will represent customers, whom we will group according to their shopping behavior in the context of a very specific business initiative.
               ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/cef1ea76-6abd-455e-a695-fc13f38be8b3)
@@ -35,12 +40,6 @@ The email on the right is vague and requires customers to read through a bullete
 
 Our mission as Data Analysts is two-fold. First, check if the data supports Elena’s hypothesis about the existence of customers that would be especially interested in the perks she is proposing, and then, for each customer, assign a likely favorite perk.
 
-# Project Overview
-* Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further 
-  analysis.
-* Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
-* Create an executive summary and slides of the customer segmentation results.
-  
 # Project Objectives
 1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page.
 2. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single table.
