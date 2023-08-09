@@ -2,12 +2,6 @@
   ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/03b7fcd5-be4a-452d-8b52-0471cdeb5721)
 In this project, we will segment customer data according to business needs and deliver data-driven recommendations based on our findings.
 
-# Project Overview
-* Familiarize yourself with the business context. Use SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further 
-  analysis.
-* Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
-* Create an executive summary and slides of the customer segmentation results.
-  
 # Project Motivation
 What is segmentation? It refers to a broad category of analytic techniques that allow us to group similar data points. In this project, data points will represent customers, whom we will group according to their shopping behavior in the context of a very specific business initiative.
               ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/cef1ea76-6abd-455e-a695-fc13f38be8b3)
@@ -42,9 +36,10 @@ The email on the right is vague and requires customers to read through a bullete
 Our mission as Data Analysts is two-fold. First, check if the data supports Elena’s hypothesis about the existence of customers that would be especially interested in the perks she is proposing, and then, for each customer, assign a likely favorite perk.
 
 # Project Objectives
-1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page.
+1. Filter TravelTide data using Elena’s (Head of Marketing) cohort definition on the TravelTide Data Processing page. (Familiarize yourself with the business context. Use 
+SQL to extract a customer dataset. Explore the data at different levels of aggregation and form a plan for further analysis.)
 2. Aggregate Session, Flight, and Hotel data to the appropriate level, preserving fields that carry demographic or behavioral data, and merge the results into a single 
-   table.
+   table. (Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.)
 3. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
 4. Transform the data to remove scale bias.
 
@@ -53,7 +48,7 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 * Segment data by setting thresholds on behavioral metrics
 * Find outliers using visual and statistical techniques
 * Implement multi-variable data segmentation using two, three, or more behavioral metrics
-* Design effective data visualizations to communicate insights to a non-technical audience
+* Design effective data visualizations to communicate insights to a non-technical audience. (Create an executive summary and slides of the customer segmentation results.)
 * Practice delivering evidence-based business recommendations to stakeholders
 
 This Project will enable you to develop business intuition around the marketing project your analysis is supporting, as well as check your understanding of the database and the various data processing strategies required to build a robust customer segmentation dataset.
