@@ -44,6 +44,8 @@ Our mission as Data Analysts is two-fold. First, check if the data supports Elen
 5. Make calculations related to the business context, then segment customer behavior data with statistical and visual techniques using the appropriate tools.
 6. Use an appropriate outlier definition to filter out extreme data points that might bias segmentation results.
 7. Transform the data to remove scale bias.
+              ![User Segmentations](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/d600b7da-e321-4ad2-ad47-0b994d74248f)
+   
 
 # Learning Outcomes
 * Practice defining metrics to track relevant customer behavior
