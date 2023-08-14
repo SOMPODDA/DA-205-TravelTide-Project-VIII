@@ -15,7 +15,8 @@ From a business perspective, customer segmentation divides a customer database i
 1. Customized promotions (e.g. special offers, discounts)
 2. Personalized communications (e.g. targeted marketing emails)
 3. Specific account policies (e.g. credit line)
-              ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/5f3b2800-0d57-480c-b3b3-fb6379c02929)
+
+    ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/5f3b2800-0d57-480c-b3b3-fb6379c02929)
 
 The role of a data analyst in driving business value is to define segments that are meaningful and aligned with business objectives. Segmentation projects can be somewhat more open-ended and require analysts to think about the problem space from multiple points of view. Thinking deeply about business needs, customer behavior, and creative ways to apply various analytical tools makes segmentation a rewarding challenge.
 
