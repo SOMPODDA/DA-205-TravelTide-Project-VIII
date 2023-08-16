@@ -1,6 +1,6 @@
-# DA-205-TravelTide-Customer_Segmentation ![Masterschool](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/39525991-dda6-43f1-a713-7efc18a96ff8)
- ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/51b78da1-4ee7-456f-b4c8-d7d3d9aaed4c)
-  
+# DA-205-TravelTide-Customer_Segmentation  ![image](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/51b78da1-4ee7-456f-b4c8-d7d3d9aaed4c)
+  ![Masterschool](https://github.com/SOMPODDA/DA-205-TravelTide-Project-VIII/assets/70188796/4eb9364e-e21f-4bc4-aead-f370845c3d8f)
+
 In this project, we will segment customer data according to business needs and deliver data-driven recommendations based on our findings.
 
 # Project Motivation
